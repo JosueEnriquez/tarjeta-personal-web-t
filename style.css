@@ -8,7 +8,7 @@ body {
     background-size: cover;
     background-repeat:no-repeat;
     background-position: center center;
-    height: 881px;
+    height: 100vh;
 }
 main {
     display: flex;
@@ -22,7 +22,7 @@ main {
     justify-content: center;
     background-color: #0202029f;
     width: 450px;
-    height: 690px;
+    height: 80%;
     align-items: center;
 }
 .article_img {
